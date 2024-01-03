@@ -9,13 +9,13 @@ Elevate drug education with 'SoberSphere,' featuring a choice-based narrative, a
 ## Deployed Links
 
 - **VR Classroom Learning:**
-  [https://www.spatial.io/s/SoberSphere-655c8e28c41d46b41c94c3e3?share=0](#)
+  [Link to VR Classroom](https://www.spatial.io/s/SoberSphere-655c8e28c41d46b41c94c3e3?share=0)
 
 - **3D Obstacle Course Game:**
-  [https://www.spatial.io/s/SoberSphere-659021dcce1e4b9356300585?share=3783091894441117926](#)
+  [Link to 3D Obstacle Course](https://www.spatial.io/s/SoberSphere-659021dcce1e4b9356300585?share=3783091894441117926)
 
 - **AR Gamified Learning:**
-  [http://panel.mait.ac.in:3021](#)
+  [Link to AR Learning](http://panel.mait.ac.in:3021)
 
 ## About Us
 
