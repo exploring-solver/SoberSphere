@@ -26,5 +26,3 @@ Join us in the SoberSphere journey, where education meets engagement, fostering 
 **#Education #Gaming #VR #AR**
 
 ---
-
-*Note: Replace the placeholder "#" in the deployed links with the actual URLs once the project is deployed.*
